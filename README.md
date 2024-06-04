@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 
 - 🔭 I am working for POSbiz as a full-stack developer intern in Christchurch, NZ.
-- 🔧 I am doing mobile dev, backend service dev & cloud deployment.
-- ⚡ I have experience in: React Native, Typescript, web service, Docker, Azure and Google Cloud Platform.
+- 🔧 I am mainly focusing on mobile dev, backend service dev & cloud deployment. Also, I take care of maintenance of old projects like PHP web apps.
+- ⚡ I have experience in: React Native, Typescript, web service, Docker, Kubernetes, Azure and Google Cloud Platform.
 - 🌱 I love exploring and learning new things! I’m currently learning .Net core.
+- 📫 How to reach me: flick a message to me on LinkedIn ~
+
+- ⚡ Fun fact: Was a content creator but not anymore due to addiction to maimaiDX (a rhythm game). 💀
 
 
