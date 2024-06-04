@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Haochen
 
 <!--
 **JinkelaP/JinkelaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I am working for POSbiz as a full-stack developer intern in Christchurch, NZ.
+- 🔧 I am doing mobile dev, backend service dev & cloud deployment.
+- ⚡ I have experience in: React Native, Typescript, web service, Docker, Azure and Google Cloud Platform.
+- 🌱 I love exploring and learning new things! I’m currently learning .Net core.
+
+
